@@ -1,0 +1,15 @@
+C:\GB\NewExamples\Example004\Example005_ifelse\obj\Debug\net6.0\Example005_ifelse.csproj.AssemblyReference.cache
+C:\GB\NewExamples\Example004\Example005_ifelse\obj\Debug\net6.0\Example005_ifelse.GeneratedMSBuildEditorConfig.editorconfig
+C:\GB\NewExamples\Example004\Example005_ifelse\obj\Debug\net6.0\Example005_ifelse.AssemblyInfoInputs.cache
+C:\GB\NewExamples\Example004\Example005_ifelse\obj\Debug\net6.0\Example005_ifelse.AssemblyInfo.cs
+C:\GB\NewExamples\Example004\Example005_ifelse\obj\Debug\net6.0\Example005_ifelse.csproj.CoreCompileInputs.cache
+C:\GB\NewExamples\Example004\Example005_ifelse\bin\Debug\net6.0\Example005_ifelse.exe
+C:\GB\NewExamples\Example004\Example005_ifelse\bin\Debug\net6.0\Example005_ifelse.deps.json
+C:\GB\NewExamples\Example004\Example005_ifelse\bin\Debug\net6.0\Example005_ifelse.runtimeconfig.json
+C:\GB\NewExamples\Example004\Example005_ifelse\bin\Debug\net6.0\Example005_ifelse.dll
+C:\GB\NewExamples\Example004\Example005_ifelse\bin\Debug\net6.0\Example005_ifelse.pdb
+C:\GB\NewExamples\Example004\Example005_ifelse\obj\Debug\net6.0\Example005_ifelse.dll
+C:\GB\NewExamples\Example004\Example005_ifelse\obj\Debug\net6.0\refint\Example005_ifelse.dll
+C:\GB\NewExamples\Example004\Example005_ifelse\obj\Debug\net6.0\Example005_ifelse.pdb
+C:\GB\NewExamples\Example004\Example005_ifelse\obj\Debug\net6.0\Example005_ifelse.genruntimeconfig.cache
+C:\GB\NewExamples\Example004\Example005_ifelse\obj\Debug\net6.0\ref\Example005_ifelse.dll
