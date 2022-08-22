@@ -1,0 +1,15 @@
+C:\GB\NewExamples\.vscode\Example006_Giri\bin\Debug\net6.0\Example006_Giri.exe
+C:\GB\NewExamples\.vscode\Example006_Giri\bin\Debug\net6.0\Example006_Giri.deps.json
+C:\GB\NewExamples\.vscode\Example006_Giri\bin\Debug\net6.0\Example006_Giri.runtimeconfig.json
+C:\GB\NewExamples\.vscode\Example006_Giri\bin\Debug\net6.0\Example006_Giri.dll
+C:\GB\NewExamples\.vscode\Example006_Giri\bin\Debug\net6.0\Example006_Giri.pdb
+C:\GB\NewExamples\.vscode\Example006_Giri\obj\Debug\net6.0\Example006_Giri.csproj.AssemblyReference.cache
+C:\GB\NewExamples\.vscode\Example006_Giri\obj\Debug\net6.0\Example006_Giri.GeneratedMSBuildEditorConfig.editorconfig
+C:\GB\NewExamples\.vscode\Example006_Giri\obj\Debug\net6.0\Example006_Giri.AssemblyInfoInputs.cache
+C:\GB\NewExamples\.vscode\Example006_Giri\obj\Debug\net6.0\Example006_Giri.AssemblyInfo.cs
+C:\GB\NewExamples\.vscode\Example006_Giri\obj\Debug\net6.0\Example006_Giri.csproj.CoreCompileInputs.cache
+C:\GB\NewExamples\.vscode\Example006_Giri\obj\Debug\net6.0\Example006_Giri.dll
+C:\GB\NewExamples\.vscode\Example006_Giri\obj\Debug\net6.0\refint\Example006_Giri.dll
+C:\GB\NewExamples\.vscode\Example006_Giri\obj\Debug\net6.0\Example006_Giri.pdb
+C:\GB\NewExamples\.vscode\Example006_Giri\obj\Debug\net6.0\Example006_Giri.genruntimeconfig.cache
+C:\GB\NewExamples\.vscode\Example006_Giri\obj\Debug\net6.0\ref\Example006_Giri.dll
